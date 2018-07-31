@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-mport QuizQuestion from './QuizQuestion.js';
+import QuizQuestion from './QuizQuestion.js';
 let quizData=require('./quiz_data.json');
 
 class Quiz extends Component{
